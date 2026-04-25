@@ -1,0 +1,26 @@
+{
+  "interest_keywords": [
+    "retrieval augmented generation",
+    "LLM evaluation",
+    "recommender systems"
+  ],
+  "read_papers": [
+    {
+      "title": "Attention Is All You Need",
+      "note": "Transformer 기본 구조는 이해함",
+      "liked": true
+    },
+    {
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "note": "contrastive learning과 multimodal 기본 감 잡음",
+      "liked": true
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "note": "ViT 구조 정리 경험 있음",
+      "liked": true
+    }
+  ],
+  "difficulty_target": "intermediate",
+  "freshness_mode": "balanced"
+}
